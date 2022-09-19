@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     cin >> a,b;
-    if(x < 7) << cbrt(x) + 1 << cout "wartosc funkcji to ", x
+    if(x < 7) << cbrt(x) + 1 << cout "wartosc funkcji teeth ", x
 }
 else
 {
